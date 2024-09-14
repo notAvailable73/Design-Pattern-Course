@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|c:\\users\\cse\\source\\repos\\ridesharingconsoleapp - design patterns lab-01\\ridesharingconsoleapp - design patterns lab-01\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|solutionrelative:ridesharingconsoleapp - design patterns lab-01\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|c:\\users\\cse\\source\\repos\\ridesharingconsoleapp - design patterns lab-01\\ridesharingconsoleapp - design patterns lab-01\\ridetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|solutionrelative:ridesharingconsoleapp - design patterns lab-01\\ridetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|c:\\users\\cse\\source\\repos\\ridesharingconsoleapp - design patterns lab-01\\ridesharingconsoleapp - design patterns lab-01\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|solutionrelative:ridesharingconsoleapp - design patterns lab-01\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|c:\\users\\cse\\source\\repos\\ridesharingconsoleapp - design patterns lab-01\\ridesharingconsoleapp - design patterns lab-01\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|solutionrelative:ridesharingconsoleapp - design patterns lab-01\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|c:\\users\\cse\\source\\repos\\ridesharingconsoleapp - design patterns lab-01\\ridesharingconsoleapp - design patterns lab-01\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|solutionrelative:ridesharingconsoleapp - design patterns lab-01\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|c:\\users\\cse\\source\\repos\\ridesharingconsoleapp - design patterns lab-01\\ridesharingconsoleapp - design patterns lab-01\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|solutionrelative:ridesharingconsoleapp - design patterns lab-01\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|c:\\users\\cse\\source\\repos\\ridesharingconsoleapp - design patterns lab-01\\ridesharingconsoleapp - design patterns lab-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B778F4A4-5B21-4D29-A1A6-4253A1F08F2E}|RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01.csproj|solutionrelative:ridesharingconsoleapp - design patterns lab-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Trip.cs",
+              "RelativeDocumentMoniker": "RideSharingConsoleApp - Design Patterns Lab-01\\Trip.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Trip.cs",
+              "RelativeToolTip": "RideSharingConsoleApp - Design Patterns Lab-01\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:29:44.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\user.cs",
+              "RelativeDocumentMoniker": "RideSharingConsoleApp - Design Patterns Lab-01\\user.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\user.cs",
+              "RelativeToolTip": "RideSharingConsoleApp - Design Patterns Lab-01\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:34:01.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "paymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\paymentMethod.cs",
+              "RelativeDocumentMoniker": "RideSharingConsoleApp - Design Patterns Lab-01\\paymentMethod.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\paymentMethod.cs",
+              "RelativeToolTip": "RideSharingConsoleApp - Design Patterns Lab-01\\paymentMethod.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:49:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RideType.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\RideType.cs",
+              "RelativeDocumentMoniker": "RideSharingConsoleApp - Design Patterns Lab-01\\RideType.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\RideType.cs",
+              "RelativeToolTip": "RideSharingConsoleApp - Design Patterns Lab-01\\RideType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:43:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Program.cs",
+              "RelativeDocumentMoniker": "RideSharingConsoleApp - Design Patterns Lab-01\\Program.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Program.cs",
+              "RelativeToolTip": "RideSharingConsoleApp - Design Patterns Lab-01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:28:31.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Driver.cs",
+              "RelativeDocumentMoniker": "RideSharingConsoleApp - Design Patterns Lab-01\\Driver.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Driver.cs",
+              "RelativeToolTip": "RideSharingConsoleApp - Design Patterns Lab-01\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:29:31.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rider.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Rider.cs",
+              "RelativeDocumentMoniker": "RideSharingConsoleApp - Design Patterns Lab-01\\Rider.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\RideSharingConsoleApp - Design Patterns Lab-01\\RideSharingConsoleApp - Design Patterns Lab-01\\Rider.cs",
+              "RelativeToolTip": "RideSharingConsoleApp - Design Patterns Lab-01\\Rider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:29:20.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
