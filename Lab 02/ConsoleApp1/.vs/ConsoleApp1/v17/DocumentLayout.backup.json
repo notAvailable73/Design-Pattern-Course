@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\cse\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\cse\\source\\repos\\consoleapp1\\consoleapp1\\caesarcipheralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\caesarcipheralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\cse\\source\\repos\\consoleapp1\\consoleapp1\\des_algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\des_algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\cse\\source\\repos\\consoleapp1\\consoleapp1\\encryptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\encryptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\cse\\source\\repos\\consoleapp1\\consoleapp1\\iencryptionalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iencryptionalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\cse\\source\\repos\\consoleapp1\\consoleapp1\\aes_algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159D7AB9-2A09-443D-B876-8F3F5B5CF7EE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\aes_algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\EncryptionManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\EncryptionManager.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\EncryptionManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\EncryptionManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:10:41.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaesarCipherAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\CaesarCipherAlgorithm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CaesarCipherAlgorithm.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\CaesarCipherAlgorithm.cs",
+              "RelativeToolTip": "ConsoleApp1\\CaesarCipherAlgorithm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:08:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DES_Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DES_Algorithm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DES_Algorithm.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DES_Algorithm.cs",
+              "RelativeToolTip": "ConsoleApp1\\DES_Algorithm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:06:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AES_Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AES_Algorithm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AES_Algorithm.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AES_Algorithm.cs",
+              "RelativeToolTip": "ConsoleApp1\\AES_Algorithm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:03:57.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IencryptionAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\IencryptionAlgorithm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IencryptionAlgorithm.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\IencryptionAlgorithm.cs",
+              "RelativeToolTip": "ConsoleApp1\\IencryptionAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:58:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\CSE\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwE4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:52:08.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
