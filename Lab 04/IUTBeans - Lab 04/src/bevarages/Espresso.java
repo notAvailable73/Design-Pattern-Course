@@ -22,18 +22,4 @@ public class Espresso implements IBeverage {
         return details;
     }
 
-    @Override
-    public void addPrice(double extraCost) {
-        if (extraCost < 0) {
-            return;
-        } else {
-            price += extraCost;
-        }
-    }
-
-    @Override
-    public void addDetails(String s) {
-        details = details + " " + s;
-    }
-
 }

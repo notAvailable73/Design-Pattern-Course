@@ -1,14 +1,11 @@
-import CondimentAdders.CondimentAdder;
 import CondimentAdders.MilkAdder;
-import CondimentAdders.WheapedCreamAdder;
+import CondimentAdders.whippedCreamAdder;
 import CondimentAdders.WhiteSugarAdder;
-import Interfaces.BeverageMaker;
 import Interfaces.IBeverage;
 import bevarages.Cappuccino;
 import bevarages.Espresso;
 import bevarages.Latte;
 
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -28,11 +25,11 @@ public class Main {
         dict.put(1, new Cappuccino());
         dict.put(2, new Espresso());
         dict.put(3, new Latte());
-
-        Map<Integer, BeverageMaker> cond = new HashMap<>();
-        cond.put(1, new MilkAdder());
-        cond.put(2, new WhiteSugarAdder());
-        cond.put(3, new WheapedCreamAdder());
+//
+//        Map<Integer, BeverageMaker> cond = new HashMap<>();
+//        cond.put(1, new MilkAdder());
+//        cond.put(2, new WhiteSugarAdder());
+//        cond.put(3, new whippedCreamAdder());
 
         Scanner myObj = new Scanner(System.in);
 
@@ -42,17 +39,41 @@ public class Main {
         IBeverage beverage = dict.get(inputForBeverageChoice);
 
         int inputForCondChoice = 0;
-        do {
+
+        do{
             giveSpace();
-            System.out.println(YELLOW + "Order description: "+ RESET + GREEN+ beverage.getDetails()+ RESET);
+            System.out.println(YELLOW + "Order description: "+ RESET + GREEN+ beverage.getDetails()+ RESET +"\n");
             printCondiments();
             inputForCondChoice = myObj.nextInt();
-
-            if (inputForCondChoice > 0 && inputForCondChoice <= cond.size()) {
-                BeverageMaker beverageMaker = cond.get(inputForCondChoice);
-                beverageMaker.decorate(beverage);
+            switch (inputForCondChoice){
+                case 1:
+                    beverage = new MilkAdder(beverage);
+                    break;
+                case 2:
+                    beverage = new WhiteSugarAdder(beverage);
+                    break;
+                case 3:
+                    beverage = new whippedCreamAdder(beverage);
+                    break;
+                default:
+                    inputForCondChoice = -1;
             }
-        } while (inputForCondChoice > 0 && inputForCondChoice <= cond.size());
+        }while(inputForCondChoice>0);
+
+
+
+
+//        do {
+//            giveSpace();
+//            System.out.println(YELLOW + "Order description: "+ RESET + GREEN+ beverage.getDetails()+ RESET);
+//            printCondiments();
+//            inputForCondChoice = myObj.nextInt();
+//
+//            if (inputForCondChoice > 0 && inputForCondChoice <= cond.size()) {
+//                BeverageMaker beverageMaker = cond.get(inputForCondChoice);
+//                beverageMaker.decorate(beverage);
+//            }
+//        } while (inputForCondChoice > 0 && inputForCondChoice <= cond.size());
         giveSpace();
         System.out.println("Here's your drink - " + beverage.getDetails());
         System.out.println("Price - " + beverage.getPrice());
@@ -78,5 +99,10 @@ public class Main {
     public static void giveSpace() {
 
         System.out.print("\n\n\n\n");
+        clearScreen();
+    }
+    public static void clearScreen() {
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
     }
 }

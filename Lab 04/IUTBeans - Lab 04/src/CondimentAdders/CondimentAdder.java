@@ -2,10 +2,11 @@ package CondimentAdders;
 
 import Interfaces.IBeverage;
 
-public abstract class CondimentAdder {
+public abstract class CondimentAdder implements IBeverage{
     protected IBeverage beverage;
     protected double cost;
-    abstract void addCost();
-    abstract void addDetails();
-    
+    public double getPrice() {
+        return beverage.getPrice()+cost;
+    }
+    public abstract String getDetails();
 }

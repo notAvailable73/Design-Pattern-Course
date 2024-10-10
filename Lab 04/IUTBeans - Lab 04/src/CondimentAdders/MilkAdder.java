@@ -1,30 +1,17 @@
 package CondimentAdders;
 
 import Interfaces.IBeverage;
-import Interfaces.BeverageMaker;
 
-public class MilkAdder extends CondimentAdder implements BeverageMaker {
+public class MilkAdder extends CondimentAdder {
 
 
-    public MilkAdder(){
+    public MilkAdder(IBeverage bev){
         cost = 2;
-    }
-    @Override
-    void addCost() {
-        beverage.addPrice(cost);
-    }
-
-
-    @Override
-    void addDetails() {
-        beverage.addDetails("with extra milk");
-
+        this.beverage = bev;
     }
 
     @Override
-    public void decorate(IBeverage bev) {
-        beverage = bev;
-        addCost();
-        addDetails();
+    public String getDetails() {
+        return beverage.getDetails() + " with extra milk";
     }
 }
